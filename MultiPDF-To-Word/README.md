@@ -13,9 +13,9 @@
    - Immediately type "powershell" (you don't need to click anything else; just start typing).
 
 2. Once the PowerShell window opens, run the following command to install the necessary dependencies for the script:
-
+```powershell
    pip install PyMuPDF python-docx Pillow tk
-
+```
 **Step 3: Run the MultiPDF-To-Word Script**
 
 1. Double-click the `MultiPDF-To-Word.py` script.
