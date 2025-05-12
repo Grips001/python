@@ -1,0 +1,2 @@
+Maybe a game with a space theme, like deep space explorer or something.
+Thinking the grid could be a square and the right side being info display related to where the mouse highlights or clicks etc.
